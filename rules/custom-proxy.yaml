@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,tabbitbrowser.com
+  - DOMAIN-SUFFIX,warp.dev
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,pinterestmail.com
+  - DOMAIN-SUFFIX,pinterdev.com
+  - DOMAIN-SUFFIX,behance.net
+  - DOMAIN-SUFFIX,behance.com
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,adobestatic.com
+  - DOMAIN-SUFFIX,adobeccstatic.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,figma.net
+  - DOMAIN-SUFFIX,figmausercontent.com

@@ -1,0 +1,51 @@
+# rule-providers 推荐合并位置：
+# 追加到主 YAML 现有 rule-providers: 下，通常位于 proxy-groups: 之后、rules: 之前。
+#
+# rules 推荐位置：
+# - custom-reject：放在广告/拒绝规则附近。
+# - custom-ai：放在核心 AI 固定规则之后、泛 Google / Microsoft / GitHub 规则之前。
+# - custom-proxy：放在 custom-ai 后面、国内 DIRECT 规则之前。
+# - custom-direct：放在国内软件 DIRECT 区域附近，且在 RULE-SET,cn,DIRECT / GEOIP,CN,DIRECT / MATCH,DIRECT 前。
+
+rule-providers:
+  custom-proxy:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/First-Lucky-Dog/clash-custom-rules/main/rules/custom-proxy.yaml
+    path: ./ruleset/custom-proxy.yaml
+    interval: 3600
+    proxy: PROXY
+
+  custom-ai:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/First-Lucky-Dog/clash-custom-rules/main/rules/custom-ai.yaml
+    path: ./ruleset/custom-ai.yaml
+    interval: 3600
+    proxy: PROXY
+
+  custom-direct:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/First-Lucky-Dog/clash-custom-rules/main/rules/custom-direct.yaml
+    path: ./ruleset/custom-direct.yaml
+    interval: 3600
+    proxy: PROXY
+
+  custom-reject:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/First-Lucky-Dog/clash-custom-rules/main/rules/custom-reject.yaml
+    path: ./ruleset/custom-reject.yaml
+    interval: 3600
+    proxy: PROXY
+
+rules:
+  - RULE-SET,custom-reject,REJECT
+  - RULE-SET,custom-ai,AI
+  - RULE-SET,custom-proxy,PROXY
+  - RULE-SET,custom-direct,DIRECT
