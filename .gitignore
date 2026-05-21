@@ -16,3 +16,5 @@ vless*.md
 *.txt
 .env
 .env.*
+
+bwg-clash/
