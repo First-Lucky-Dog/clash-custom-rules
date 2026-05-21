@@ -27,5 +27,16 @@ payload:
   - DOMAIN-SUFFIX,ask.dcloud.net.cn
   - DOMAIN-SUFFIX,hx.dcloud.net.cn
   - DOMAIN-SUFFIX,uniapp.dcloud.net.cn
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,bytecdn.cn
+  - DOMAIN-SUFFIX,byted-static.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,volcengineapi.com
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubao.com.cn
   - DOMAIN-SUFFIX,capcut.cn
   - DOMAIN-SUFFIX,jianying.com

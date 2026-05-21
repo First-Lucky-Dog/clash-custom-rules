@@ -2,6 +2,15 @@ payload:
   - DOMAIN-SUFFIX,tabbitbrowser.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,capcutapi.com
+  - DOMAIN-SUFFIX,capcutstatic.com
+  - DOMAIN-SUFFIX,capcutcdn.com
+  - DOMAIN-SUFFIX,capcutimg.com
+  - DOMAIN-SUFFIX,capcutpc.com
+  - DOMAIN-SUFFIX,faceulv.com
+  - DOMAIN-SUFFIX,bytednsdoc.com
+  - DOMAIN-SUFFIX,edgeone.ai
   - DOMAIN-SUFFIX,google
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
