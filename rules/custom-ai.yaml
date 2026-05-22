@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,openaiapi.com
+  - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,flow.google
