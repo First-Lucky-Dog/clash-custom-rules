@@ -1,6 +1,28 @@
 payload:
   - DOMAIN-SUFFIX,openaiapi.com
   - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,featureassets.org
+  - DOMAIN-SUFFIX,openaimerge.com
+  - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,workoscdn.com
+  - DOMAIN-SUFFIX,imgix.net
+  - DOMAIN-SUFFIX,sendgrid.net
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,prodregistryv2.org
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN,ws.chatgpt.com
+  - DOMAIN,cdn.openaimerge.com
+  - DOMAIN,cdn.workos.com
+  - DOMAIN,forwarder.workos.com
+  - DOMAIN,setup.workos.com
+  - DOMAIN,images.workoscdn.com
+  - DOMAIN,workos.imgix.net
+  - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,rum.browser-intake-datadoghq.com
+  - DOMAIN,o207216.ingest.sentry.io
+  - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,flow.google
