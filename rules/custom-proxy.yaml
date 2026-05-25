@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,tabbitbrowser.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,netlify.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,capcut.com
