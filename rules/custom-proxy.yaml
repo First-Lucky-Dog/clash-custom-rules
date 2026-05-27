@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,netlify.com
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN,spos.isbank.com.tr
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,instagramstatic-a.akamaihd.net
