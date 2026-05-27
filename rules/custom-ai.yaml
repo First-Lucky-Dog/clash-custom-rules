@@ -26,6 +26,9 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN-SUFFIX,aitestkitchen.withgoogle.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,one.google.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,makersuite.google.com

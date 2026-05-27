@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,netlify.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2ex.co
+  - DOMAIN-SUFFIX,forms.gle
   - DOMAIN-SUFFIX,capcut.com
   - DOMAIN-SUFFIX,capcutapi.com
   - DOMAIN-SUFFIX,capcutstatic.com
