@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,netlify.com
+  - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,forms.gle
