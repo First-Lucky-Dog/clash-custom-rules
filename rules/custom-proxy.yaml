@@ -4,6 +4,16 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,netlify.com
   - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagramstatic-a.akamaihd.net
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,ig.me
+  - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,forms.gle
