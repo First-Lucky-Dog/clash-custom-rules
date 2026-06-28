@@ -76,3 +76,8 @@ payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,figma.net
   - DOMAIN-SUFFIX,figmausercontent.com
+  # kie.ai (AI API 平台) + 其依赖：kie.ai 含 api./docs./stats.；aiquickdraw=其 CDN(crypto-js)；iconify/simplesvg=图标
+  - DOMAIN-SUFFIX,kie.ai
+  - DOMAIN-SUFFIX,aiquickdraw.com
+  - DOMAIN-SUFFIX,iconify.design
+  - DOMAIN-SUFFIX,simplesvg.com
