@@ -81,3 +81,9 @@ payload:
   - DOMAIN-SUFFIX,aiquickdraw.com
   - DOMAIN-SUFFIX,iconify.design
   - DOMAIN-SUFFIX,simplesvg.com
+  # 21st.dev (UI 组件/模板市场，含 AI 生成) + 其依赖：clerk.com=登录头像代理 img.clerk.com；supabase.co=数据库/存储/鉴权后端(vucvdpamtrjkzmubwlts.supabase.co)；up.railway.app=组件实时预览/CSS 编译服务(21.up.railway.app)；cloudflareinsights.com=Cloudflare 网站分析
+  - DOMAIN-SUFFIX,21st.dev
+  - DOMAIN-SUFFIX,clerk.com
+  - DOMAIN-SUFFIX,supabase.co
+  - DOMAIN-SUFFIX,up.railway.app
+  - DOMAIN-SUFFIX,cloudflareinsights.com
