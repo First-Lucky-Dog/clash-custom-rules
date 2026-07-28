@@ -37,6 +37,8 @@ payload:
   - DOMAIN-SUFFIX,faceulv.com
   - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN-SUFFIX,edgeone.ai
+  # Google / Android 开发者平台（Android Developers / Google Play Console）
+  - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,google
   - DOMAIN,accounts.google.co.jp
   - DOMAIN-SUFFIX,google.com
