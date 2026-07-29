@@ -88,6 +88,9 @@ payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-SUFFIX,figma.net
   - DOMAIN-SUFFIX,figmausercontent.com
+  # ArtStation（主站、作品页、图片/CDN 与官方短链接）
+  - DOMAIN-SUFFIX,artstation.com
+  - DOMAIN-SUFFIX,artstn.co
   # kie.ai (AI API 平台) + 其依赖：kie.ai 含 api./docs./stats.；aiquickdraw=其 CDN(crypto-js)；iconify/simplesvg=图标
   - DOMAIN-SUFFIX,kie.ai
   - DOMAIN-SUFFIX,aiquickdraw.com
