@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,google
   - DOMAIN,accounts.google.co.jp
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.ru
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,googlevideo.com
